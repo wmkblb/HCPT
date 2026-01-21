@@ -1,2 +1,2 @@
-This is the project address for our paper "Hierarchical Cross-Modal Prompt Tuning"
+This is the project address for our paper "HCPT: HIERARCHICAL CROSS-MODAL PROMPT TUNING"
 
